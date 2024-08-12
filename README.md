@@ -39,8 +39,8 @@ pip install numpy scipy pandas matplotlib seaborn
 
 This section demonstrates how to use the provided Python functions to calculate and analyze network control metrics. Ensure you have the necessary libraries installed and the `PyC_ControlMetrics` module imported.
 
-- **PyC_AverageControl:** Computes AC for each network node.
-- **PyC_ModalControl:** Determines MC for each node.
+- **AverageControl:** Computes AC for each network node.
+- **ModalControl:** Determines MC for each node.
 - **Time Constant** calculation using normalized adjacency matrices.
 
 To utilize the network control metrics functions in your projects, follow these steps:
